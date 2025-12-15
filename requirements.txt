@@ -1,7 +1,7 @@
 altair==6.0.0
 attrs==25.4.0
 blinker==1.9.0
-cachetools==6.2.2
+cachetools==6.2.3
 certifi==2025.11.12
 charset-normalizer==3.4.4
 click==8.3.1
@@ -24,6 +24,7 @@ pydeck==0.9.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 referencing==0.37.0
+reportlab==4.4.6
 requests==2.32.5
 rpds-py==0.30.0
 six==1.17.0
@@ -33,6 +34,6 @@ tenacity==9.1.2
 toml==0.10.2
 tornado==6.5.3
 typing_extensions==4.15.0
-tzdata==2025.2
+tzdata==2025.3
 urllib3==2.6.2
 watchdog==6.0.0
